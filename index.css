@@ -1,3 +1,4 @@
+@import url(https://fonts.google.com/specimen/Fraunces);
 #preview_title{ 
     font-size: 18px;
 }
@@ -7,10 +8,11 @@ body{
 }
 
 #text{
+    font-family: 'Times New Roman', Times, serif;
     font-size: 14px; 
     background-color: white;
     border-radius: 5px;
-   padding: 100px;
+ padding: 100px;
    margin-left: 450px;
    margin-right: 450px;
    margin-block-start: 350px;
@@ -18,7 +20,9 @@ body{
    text-align: right;
    background-image: url(/images/image-product-desktop.jpg);
    background-position: left;
-   background-size: 1440px; 
+   background-size: cover;
+  /* background-size: 1440px; */ 
+    
 
 }
 #description{
