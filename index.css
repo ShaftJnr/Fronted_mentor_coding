@@ -1,0 +1,38 @@
+#preview{ 
+}
+body{
+    background-color:hsl(30, 38%, 92%);
+    text-align: justify;
+}
+
+#text{
+    font-size: 14px; 
+    background-color: white;
+    border-radius: 5px;
+   padding: 150pxpx;
+   margin-left: 400px;
+   margin-right: 400px;
+   text-align: right;
+   background-image: url(/images/image-product-desktop.jpg);
+
+   background-position: left;
+   background-size: 1440px; 
+
+}
+
+#price{
+    color:hsl(158, 36%, 37%);
+}
+
+#cart{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(158, 36%, 37%);
+    border: 0px;
+    border-radius: 4px;
+    padding:5px;
+}
+
+#attribution{
+font-size: 11px; text-align:center; 
+color: hsl(228, 45%, 44%);
+}
