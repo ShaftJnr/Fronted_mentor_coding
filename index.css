@@ -10,9 +10,11 @@ body{
     font-size: 14px; 
     background-color: white;
     border-radius: 5px;
-   padding: 150pxpx;
-   margin-left: 400px;
-   margin-right: 400px;
+   padding: 190px;
+   margin-left: 450px;
+   margin-right: 450px;
+   margin-block-start: 350px;
+   margin-block-end:350px;
    text-align: right;
    background-image: url(/images/image-product-desktop.jpg);
 
