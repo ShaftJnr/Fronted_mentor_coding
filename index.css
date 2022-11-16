@@ -1,18 +1,18 @@
 @font-face {
     font-family: Heading_font;
-    src: url(/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(./Montserrat/Montserrat-VariableFont_wght.ttf);
 
 }
 
 @font-face {
     font-family: Regular_heading_font;
-    src: url(/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+    src: url(./Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
 
 }
 
 @font-face {
     font-family: body_text ;
-    src: url(/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(./Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 
 img{
